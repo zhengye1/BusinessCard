@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BusinessCard</string>
+    <string name="name">Vincent Zheng</string>
+    <string name="title">Software Developer</string>
+    <string name="biliLink">https://space.bilibili.com/1642900</string>
+    <string name="email">vincentcheng787@gmail.com</string>
+    <string name="twiter">https://twitter.com/vincentz787</string>
 </resources>
